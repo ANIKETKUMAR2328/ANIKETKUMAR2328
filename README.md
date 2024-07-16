@@ -14,7 +14,7 @@
 <a href="https://twitter.com/aniketkumar2328" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aniketkumar2328" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aniket-kumar-5a501a281" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aniket-kumar-5a501a281" height="30" width="40" /></a>
 <a href="https://instagram.com/aniket_kumar_2811" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aniket_kumar_2811" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/aniketkumar23281" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aniketkumar23281" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
